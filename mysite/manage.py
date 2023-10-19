@@ -3,7 +3,7 @@
 import os
 import sys
 
-#abtabhihi
+#a  bt  abhihi
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')
     try:
