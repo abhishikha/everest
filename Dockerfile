@@ -7,6 +7,6 @@ COPY requirements.txt /code/
 RUN pip install -r requirements.txt
 COPY . /code/
 
-EXPOSE 8000
+EXPOSE 8080
 WORKDIR /code/mysite
 CMD ["python", "manage.py", "runserver"]
