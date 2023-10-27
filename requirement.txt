@@ -7,4 +7,3 @@ pytz==2019.1
 requests==2.21.0
 sqlparse==0.3.0
 urllib=1.4.3
-#demoingforconflict
