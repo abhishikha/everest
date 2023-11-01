@@ -6,6 +6,6 @@ WORKDIR /=
 COPY requirements.txt /code/
 RUN pip install -r requirements.txt
 COPY . /code/
-EXPOSE 800
+EXPOSE 8000
 WORKDIR /code/mysite
 CMD ["python", "manage.py", "runserver"]
