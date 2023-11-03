@@ -3,7 +3,7 @@ chardet==3.0.4
 Django==2.2.1
 djangorestframework==3.9.4
 idna==2.8
-pytz==2019.1
+pytz==2019
 requests==2.21.0
 sqlparse==0.3.0
 urllib=1.3
